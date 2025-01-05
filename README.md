@@ -5,7 +5,8 @@ This repository features a Power BI dashboard designed to analyze and provide in
 
 ## Screenshot  
 **Dashboard Preview**  
-[Insert dashboard image here]
+![Online Retail Sales Dashboard](https://github.com/user-attachments/assets/94d95e0d-4927-4fc5-ae63-072030f255e6)
+
 
 ## Installation  
 To explore and use this project, ensure Microsoft Power BI is installed on your system.
