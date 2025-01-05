@@ -4,7 +4,6 @@
 This repository features a Power BI dashboard designed to analyze and provide insights into an E-commerce store's data. The results of the analysis are documented in the `results.txt` file. This project serves as a valuable resource for anyone interested in leveraging Power BI for data analysis.  
 
 ## Screenshot  
-**Dashboard Preview**  
 ![Online Retail Sales Dashboard](https://github.com/user-attachments/assets/94d95e0d-4927-4fc5-ae63-072030f255e6)
 
 
